@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.study_timer.json
+study_log.csv
